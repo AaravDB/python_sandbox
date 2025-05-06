@@ -13,3 +13,13 @@ VARIABLE RULES:
   - Must start with a letter or an underscore
   - Can have numbers but can not start with one
 """
+
+x=8
+y=2.6
+naem='Aarav'
+is_naem=True
+
+print("Tell Me your name!")
+print(y)
+y=int(y)
+print(y)
