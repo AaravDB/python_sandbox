@@ -23,3 +23,6 @@ print("Tell Me your name!")
 print(y)
 y=int(y)
 print(y)
+#default int
+#typecasting
+#multivariable declaration
