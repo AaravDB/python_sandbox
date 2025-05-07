@@ -12,4 +12,4 @@ myFile.close()
 myFile=open('myfile.txt','r+')
 text=myFile.read(100)
 print(text)
-
+myFile.close()
